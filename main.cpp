@@ -114,8 +114,6 @@ int main()
     double J = 2.28; // Nearest neighbour coupling
     //double J = 1;
 
-    // Rattle
-
     // These are the nearest neighbour couplings for: D, R
     // These are the next-nearest neighbour couplings for: O, F, Y
     //double Jx  = 0.67;    double Jy  = 0;    double Jz  = 0; // Simplified couplings, chain
